@@ -1,6 +1,6 @@
 ---
-title: 'Template Chapter 1'
-description: 'This is a template chapter.'
+title: 'Daten laden und betrachten.'
+description: 'In diesem Kapitel laden wir Daten und versuchen uns einen Überblick zu verschaffen, wie diese Daten aufgebaut sind.'
 ---
 
 ## An exercise title written in sentence case
