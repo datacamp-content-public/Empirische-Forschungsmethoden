@@ -1,4 +1,4 @@
-# **Course Title**<br/>by **Course Author**
+# **Test**<br/>by **Course Author**
 
 README and sample lesson deadline: YYYY-MM-DD 
 
