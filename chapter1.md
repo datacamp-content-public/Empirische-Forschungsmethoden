@@ -18,7 +18,7 @@ The Instructions that follow should be in bullet point form with clear guidance 
 
 `@instructions`
 - Instruction 1
-- Instruction 2
+- Instruction 2 
 - Instruction 3
 
 `@hint`
